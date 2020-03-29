@@ -33,3 +33,5 @@
 17)title tags added
 
 18)Serivce/benefits sections turned over on the style sheet - to follow the order of the HTML document
+
+19)Div elements in <align> turned into <ul>/<li> elements and benefits turned from a class to an id as it only occurs once!

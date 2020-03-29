@@ -117,7 +117,9 @@ main {
     font-size: 36px;
 }
 
-.benefits {
+/* benefits changed to an id as it only occurs once!*/
+
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
