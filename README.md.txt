@@ -15,3 +15,7 @@
 8)<Main> semantic element tags added at lines 35-65
 
 9)Div elements changed to 'Nav' around links at lines 15-22.  CSS updated with reference to this and comments added on both index and style-sheet.
+
+10)Multiple lines with the same CSS tags rationalised to 'benefit'.  CSS rules with commonality merged to avoid repitition.
+
+10)Multiple lines with the same CSS tags rationalised to 'service'.  CSS rules with commonality merged to avoid repitition.
