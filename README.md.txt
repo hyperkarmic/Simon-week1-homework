@@ -7,3 +7,5 @@
 4)Between lines 22-55 <div> tags converted to section tags (converted to semantic tags)
 
 5)Alt attributes added on all six image elements
+
+6)Div tags turned to 'aside tags' at lines 60/88
