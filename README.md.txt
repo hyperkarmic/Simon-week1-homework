@@ -23,3 +23,5 @@
 12)Header class turned into a header element.  All the correspanding CSS rules changed to apply to element rather than class.  Comments added.
 
 13)Residual divs tag next 'main' tags deleted and .content class remove and correspanding css rule applied to the 'main' semantic element
+
+14)Line breaks added for legibility.  Superfluous div tag removed next to closing footer tag
