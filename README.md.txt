@@ -11,3 +11,7 @@
 6)Div tags turned to 'aside tags' at lines 60/88
 
 7)Div class turned to 'footer' - correspanding style sheet entry for footer class being turned into a footer element, and correspanding change to interenal <h2> element made
+
+8)<Main> semantic element tags added at lines 35-65
+
+9)Div elements changed to 'Nav' around links at lines 15-22.  CSS updated with reference to this and comments added on both index and style-sheet.
