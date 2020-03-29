@@ -8,25 +8,33 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+
+
+/* header semantic element added rather than class*/
+
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+/* h1 element now correspands to header element*/
+
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* h1 element with 'ceo' class now correspands to header element*/
+
+header h1 .seo {
     color: #d9dcd6;
 }
 
 
-   /* div element changed to nav element*/
-.header nav {
+   /* div element changed to nav element and correspands to header element rather than class*/
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,11 +44,12 @@ body {
     /* div element changed to nav element*/
 }
 
-.header nav ul {
+/* nav ul elements now correspand to header semantic element*/
+header nav ul {
     list-style-type: none;
 }
-   /* div element changed to nav element*/
-.header nav ul li {
+   /* div element changed to nav element and relates to header semantic element*/
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -73,7 +82,9 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* former content class now applies to the 'main' semantic element*/
+
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
