@@ -9,3 +9,5 @@
 5)Alt attributes added on all six image elements
 
 6)Div tags turned to 'aside tags' at lines 60/88
+
+7)Div class turned to 'footer' - correspanding style sheet entry for footer class being turned into a footer element, and correspanding change to interenal <h2> element made
