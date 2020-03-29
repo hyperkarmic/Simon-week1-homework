@@ -25,3 +25,11 @@
 13)Residual divs tag next 'main' tags deleted and .content class remove and correspanding css rule applied to the 'main' semantic element
 
 14)Line breaks added for legibility.  Superfluous div tag removed next to closing footer tag
+
+15)Missing body tag added
+
+16)Typo on line 66 corrected
+
+17)title tags added
+
+18)Serivce/benefits sections turned over on the style sheet - to follow the order of the HTML document
